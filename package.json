@@ -1,0 +1,7 @@
+{
+  "name": "a4mp-rag-systems",
+  "version": "1.0.0",
+  "description": "A4MP RAG SYSTEMS - Artificial Intelligence Fourth Mind Platform: document question answering (RAG) web application",
+  "scripts": { "start": "node --no-warnings server/server.js" },
+  "engines": { "node": ">=22.5" }
+}

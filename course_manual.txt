@@ -1,0 +1,16 @@
+FULL STACK DEVELOPMENT COURSE MANUAL
+
+Course Overview
+The Full Stack Development course teaches students to build complete web applications. The course covers HTML, CSS and JavaScript for the front end, React for building user interfaces, Node.js with Express.js for the back end, and MySQL for data storage. The course duration is four weeks and each day has one theory session of two hours followed by a practical session of three hours.
+
+Weekly Plan
+In the first week students learn HTML, CSS and JavaScript fundamentals. In the second week they study React components, state, props and hooks. The third week is devoted to Node.js, Express.js, REST APIs and authentication using JSON Web Tokens. In the fourth week students learn MySQL, connect it with the Node.js server and complete a mini project.
+
+Assignments
+There are five assignments in the course: registration, login with role management, document management, document indexing and question answering. Every assignment must be submitted through the course portal before ten o'clock at night on the due date. Late submissions lose twenty percent of the marks for each day of delay.
+
+Tools Required
+Students need a laptop with at least 4 GB RAM, Node.js, MySQL, Visual Studio Code, Git and Postman. Internet access is required to install packages and to use the embedding and language model services in the final project.
+
+Certification
+A student who attends all sessions and submits all assignments receives a certificate of internship from the training organisation. The certificate carries a unique certificate ID that can be verified using the QR code printed on it.
